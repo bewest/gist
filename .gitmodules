@@ -1,6 +1,6 @@
 [submodule "cli-hello"]
 	path = cli-hello
-	url = git@gist.github.com:1202975.git
+	url = git@gist.github.com:1379221.git
 [submodule "d3-hello"]
 	path = d3-hello
 	url = git@gist.github.com:1159696.git
