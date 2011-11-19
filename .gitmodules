@@ -1,21 +1,21 @@
 [submodule "cli-hello"]
 	path = cli-hello
-	url = ssh://git@gist.github.com:1202975.git
+	url = git@gist.github.com:1202975.git
 [submodule "d3-hello"]
 	path = d3-hello
-	url = ssh://git@gist.github.com:1159696.git
+	url = git@gist.github.com:1159696.git
 [submodule "gist-1157415"]
 	path = gist-1157415
-	url = ssh://git@gist.github.com:1157415.git
+	url = git@gist.github.com:1157415.git
 [submodule "hex"]
 	path = hex
-	url = ssh://git@gist.github.com:1159707.git
+	url = git@gist.github.com:1159707.git
 [submodule "pan-zoom-chart"]
 	path = pan-zoom-chart
-	url = ssh://git@gist.github.com:1187808.git
+	url = git@gist.github.com:1187808.git
 [submodule "stephen"]
 	path = stephen
-	url = ssh://git@gist.github.com:1363310.git
+	url = git@gist.github.com:1363310.git
 [submodule "sun-d3"]
 	path = sun-d3
-	url = ssh://git@gist.github.com:1224222.git
+	url = git@gist.github.com:1224222.git
